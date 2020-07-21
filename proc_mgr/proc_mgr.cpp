@@ -18,7 +18,7 @@
 //  Initials  Date           Description
 //  --------  ---------      -------------------------------------------------
 //  KRD       02/5/2020      Created file and began implementation
-//
+//  KRD	      07/20/2020     Began conversion to thread model
 //
 //-----------------------------------------------------------------------------|
 #include <stdio.h>
